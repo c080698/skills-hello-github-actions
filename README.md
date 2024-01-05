@@ -18,6 +18,7 @@ _Create a GitHub Action and use it in a workflow._
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+:smile:_:smile:_:smile:_
 
 ## Step 5: Trigger the workflow
 
